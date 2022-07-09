@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=f41
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-F415F
+ro.product.bootimage.name=f41dd
+ro.bootimage.build.date=Mon Apr 18 22:06:04 KST 2022
+ro.bootimage.build.date.utc=1650287164
+ro.bootimage.build.fingerprint=samsung/f41dd/f41:12/SP1A.210812.016/F415FXXU1CVD1:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=F415FXXU1CVD1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+
